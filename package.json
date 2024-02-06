@@ -1,6 +1,6 @@
 {
   "name": "calculator-agus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prueba de una libreria",
   "main": "index.js",
   "scripts": {
