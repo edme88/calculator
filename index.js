@@ -14,4 +14,4 @@ const div = (a, b) => {
   return a / b;
 };
 
-module.exports = { sumar };
+module.exports = { sumar, resta, multi, div };
